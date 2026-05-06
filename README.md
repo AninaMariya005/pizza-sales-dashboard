@@ -1,6 +1,4 @@
-🍕 Pizza Sales Dashboard
-
-📊 Interactive Business Intelligence Report (Power BI)
+                                                🍕 Pizza Sales Dashboard
 
 🧾**1. Pizza Sales Report**
 
@@ -61,8 +59,7 @@ Support decision-making
 
 🏆 Top Products: Identifies best-selling categories
 
-💡 Business Impact & Insights
-
+💡 Business Impact & Insights-
 📈 Optimize staffing during peak days
 🎯 Focus marketing on high-performing products
 📦 Improve inventory planning
