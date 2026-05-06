@@ -67,4 +67,5 @@ Support decision-making
 
 **6.Screenshot**
 
-https://github.com/AninaMariya005/pizza-sales-dashboard/blob/main/Screenshot%202026-05-05%20203517.png
+![Dashboard](https://github.com/AninaMariya005/pizza-sales-dashboard/blob/main/Screenshot%202026-05-05%20203517.png)
+![Dashboard](https://github.com/AninaMariya005/pizza-sales-dashboard/blob/main/Screenshot%202026-05-06%20235009.png)
